@@ -1,5 +1,5 @@
 {
-  "name": "LCD-HD44780",
+  "name": "LCD",
   "keywords": "Arduino, LCD, LiquidCrystal, HD44780, TextLCD",
   "description": "An Arduino library for text LCDs with HD44780.",
   "repository":
